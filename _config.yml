@@ -276,7 +276,7 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: ""
+      path: "话题"
       type: 话题
     values:
       layout: talk
