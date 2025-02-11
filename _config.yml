@@ -277,7 +277,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: 话题
     values:
       layout: talk
       author_profile: true
