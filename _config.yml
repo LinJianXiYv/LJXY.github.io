@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : #"en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "主页"
 title_separator          : "-"
 name                     : &name "林间细雨"
 description              : #&description "personal description"
